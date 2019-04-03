@@ -10,7 +10,6 @@ When organizing an event people use multiple tools and app which make them distr
 Include logo/demo screenshot etc.
 
 ## Tech/framework used
-Ex. -
 
 <b>Built with</b>
 - [Node.js](https://nodejs.org/en/)
